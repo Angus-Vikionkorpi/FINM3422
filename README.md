@@ -38,3 +38,4 @@ Student Oscar successfully cloned the repo.
 
 Oscar successfully cloned the repo
 
+Angus succesfully cloned the FINM3422 Repo
